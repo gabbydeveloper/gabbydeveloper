@@ -8,7 +8,7 @@
 - 📚 **Actualmente:** Cursando el Diplomado en Competencias Digitales Docentes en la UDLA - Universidad Anáhuac.
 - 💼 **Experiencia:** Más de 20 años desarrollando software y aplicaciones empresariales.
 - 🏗️ **Actualidad:** Trabajando en la reingeniería del ERP GECO y en el desarrollo del módulo contable para ATSys de la ATPUCE.
-- 🚀 **Creación:** Desarrolladora de ATSys, sistema que creé desde cero y que actualmente continúo evolucionando.
+- 🚀 **Creación:** Desarrolladora del ERP Geco, creado desde cero por mí, actualmente está siendo reingenierizado | Sistema ATSys, sistema que creé desde cero y que actualmente continúo evolucionando.
 - 🧩 **Tecnologías:** PHP, CodeIgniter, MariaDB, Sencha ExtJS, Java, Spring Boot, Angular y TypeScript.
 - 🔄 **Especialidad:** Reingeniería y modernización de sistemas legacy hacia arquitecturas modernas.
 
