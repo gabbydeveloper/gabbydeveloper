@@ -1,32 +1,44 @@
-# 👋 Hi, I'm Gabby Zapata
+# 👋 ¡Hola! Soy Gabby Zapata
 
-### 💻 Software Developer | Full Stack | Software Architecture
+### 💻 Ingeniera de Sistemas | Software Developer | Full Stack | Arquitectura de Software
 
-> **Programmer since I was 12. Still building, still learning, still curious. 🚀**
+> **Programadora desde los 12 años. Sigo construyendo, aprendiendo, investigando y enseñando. 🚀**
 
-I'm a software developer with **20+ years of experience** building business applications and solving real-world problems through technology.
+- 🎓 **Formación:** Ingeniera de Sistemas por la Pontificia Universidad Católica del Ecuador (PUCE) y Máster en Ingeniería de Software por la Universidad Internacional de La Rioja (UNIR).
+- 📚 **Actualmente:** Cursando el Diplomado en Competencias Digitales Docentes en la UDLA - Universidad Anáhuac.
+- 💼 **Experiencia:** Más de 20 años desarrollando software y aplicaciones empresariales.
+- 🏗️ **Actualidad:** Trabajando en la reingeniería del ERP GECO y en el desarrollo del módulo contable para ATSys de la ATPUCE.
+- 🚀 **Creación:** Desarrolladora de ATSys, sistema que creé desde cero y que actualmente continúo evolucionando.
+- 🧩 **Tecnologías:** PHP, CodeIgniter, MariaDB, Sencha ExtJS, Java, Spring Boot, Angular y TypeScript.
+- 🔄 **Especialidad:** Reingeniería y modernización de sistemas legacy hacia arquitecturas modernas.
 
-My journey started with desktop and web applications and evolved through **PHP, CodeIgniter, MariaDB, Java, Spring Boot, Sencha ExtJS and Angular**.
+### ❤️ Lo que me apasiona
 
-Today, I'm especially interested in **modernizing legacy systems, software architecture, user experience and building maintainable applications that actually help people.**
+* 💻 **Programar**
+* 🧹 **Código limpio**
+* 🧠 **Aprender continuamente**
+* 🔎 **Investigar y encontrar soluciones**
+* 👩‍🏫 **Enseñar y compartir conocimiento**
+* 🏗️ **Diseñar y mejorar arquitecturas de software**
+* 🎨 **Crear experiencias de usuario simples y útiles**
 
 ---
 
-## 🚀 What I do
+## 🚀 ¿Qué hago?
 
-* 🏗️ **Software Architecture & System Modernization**
-* 💻 **Full Stack Development**
+* 🏗️ **Arquitectura y modernización de sistemas**
+* 💻 **Desarrollo Full Stack**
 * 🌐 **Angular & TypeScript**
 * ☕ **Java & Spring Boot**
-* 🗄️ **SQL & Relational Databases**
-* 🔄 **Legacy System Reengineering**
-* 🎨 **UI/UX for Business Applications**
-* 🧩 **Microservices Architecture**
-* 📊 **ERP & Business Software**
+* 🗄️ **Bases de datos relacionales**
+* 🔄 **Reingeniería de sistemas legacy**
+* 🎨 **UI/UX para aplicaciones empresariales**
+* 🧩 **Arquitecturas basadas en microservicios**
+* 📊 **Sistemas ERP y aplicaciones de gestión**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías
 
 ### Frontend
 
@@ -44,7 +56,7 @@ Today, I'm especially interested in **modernizing legacy systems, software archi
 
 **Java · Spring Boot · Spring Cloud · PHP · CodeIgniter**
 
-### Databases
+### Bases de datos
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgresql" />
@@ -52,7 +64,7 @@ Today, I'm especially interested in **modernizing legacy systems, software archi
 
 **MariaDB · MySQL · PostgreSQL · SQL**
 
-### Tools & Workflow
+### Herramientas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode" />
@@ -62,83 +74,205 @@ Today, I'm especially interested in **modernizing legacy systems, software archi
 
 ---
 
-## 🏗️ What I'm working on
+# 🏗️ Proyectos actuales
 
-### 🏢 GECO — ERP Modernization
+## 🏢 GECO — Reingeniería integral de un ERP
 
-One of my main current projects is the **integral reengineering of GECO**, an ERP platform with a legacy architecture.
+Actualmente trabajo en la **reingeniería integral de GECO**, un ERP desarrollado originalmente con tecnologías legacy.
 
-The project involves transforming a monolithic legacy application into a modern architecture based on:
+El proyecto busca evolucionar el sistema hacia una arquitectura moderna basada en:
 
-**Angular 21 + Spring Boot + Java 21 + Microservices**
+**Angular 21 + Spring Boot + Java + Microservicios**
 
-The goal is not simply to rewrite the software, but to improve:
+El objetivo no es simplemente reemplazar tecnologías, sino **preservar el conocimiento de negocio del sistema y transformarlo en una solución más moderna, mantenible y escalable**.
 
-* ⚡ Performance
-* 🧩 Maintainability
-* 📱 User experience
-* 🏗️ Architecture
-* 🔐 Security
-* 📊 Business processes
-* 🚀 Scalability
+Entre los principales objetivos están:
 
-This project is also the focus of my **Master's thesis in Software Engineering**.
+* ⚡ Mejorar el rendimiento
+* 🧩 Facilitar el mantenimiento
+* 🎨 Mejorar la experiencia de usuario
+* 🏗️ Modernizar la arquitectura
+* 🔐 Fortalecer la seguridad
+* 📊 Optimizar procesos empresariales
+* 🚀 Preparar el sistema para crecer
+
+Este proyecto forma parte también de mi **Trabajo de Fin de Máster en Ingeniería de Software**.
 
 ---
 
-## 🧠 From Legacy to Modern
+## 🧾 ATSys — Módulo Contable
 
-I've had the opportunity to work with technologies across different generations of software development.
+Otro de mis proyectos actuales es el desarrollo del **módulo contable para ATSys de la ATPUCE**.
+
+ATSys es un sistema que **yo misma desarrollé**, y actualmente estoy ampliándolo para incorporar funcionalidades contables que permitan gestionar de manera más completa la información financiera del sistema.
+
+Este proyecto representa algo que disfruto especialmente: **conocer un sistema desde su origen y continuar evolucionándolo con nuevas necesidades de negocio**.
+
+---
+
+# 🧠 De sistemas Legacy a arquitecturas modernas
+
+Durante mi trayectoria profesional he trabajado con diferentes generaciones de tecnologías.
 
 ```text
-Legacy Systems
-     │
-     ├── Sencha / ExtJS
-     ├── PHP / CodeIgniter
-     └── MariaDB
-            │
-            ▼
-     Modern Architecture
-            │
-            ├── Angular
-            ├── TypeScript
-            ├── Java
-            ├── Spring Boot
-            ├── Microservices
-            └── Modern UX
+        Experiencia y sistemas Legacy
+                    │
+        ┌───────────┴───────────┐
+        │                       │
+     Sencha                  PHP
+     ExtJS                 CodeIgniter
+        │                       │
+        └───────────┬───────────┘
+                    │
+                 MariaDB
+                    │
+                    ▼
+          Reingeniería y evolución
+                    │
+        ┌───────────┴───────────┐
+        │                       │
+     Angular              Java / Spring
+        │                       │
+        └───────────┬───────────┘
+                    │
+              Microservicios
+                    │
+                    ▼
+          Arquitecturas modernas
 ```
 
-I enjoy the challenge of understanding **old systems, discovering why they work the way they do, and transforming them without losing the business knowledge already embedded in them.**
+Me gusta especialmente trabajar en esa transición: **entender un sistema existente, descubrir el conocimiento de negocio que contiene y encontrar la mejor manera de llevarlo hacia una arquitectura moderna sin perder aquello que funciona.**
 
 ---
 
-## 📚 Currently Learning
+# 📚 Formación
 
-🎓 **Master's in Software Engineering**
+🎓 **Máster en Ingeniería de Software**
+Universidad Internacional de La Rioja — UNIR
 
-I'm currently working on my master's thesis:
+🎓 **Ingeniería de Sistemas**
+Pontificia Universidad Católica del Ecuador — PUCE
 
-> **"Integral Reengineering of the GECO ERP through a Modern Architecture and Hybrid Methodologies for the Optimization of Processes and User Experience."**
-
-I'm also studying **educational strategies and technology-enhanced learning**, because I believe programming knowledge becomes even more valuable when it can be shared with others.
-
----
-
-## 👩‍🏫 Teaching & Sharing Knowledge
-
-One of my goals is to combine **software development and education**.
-
-I enjoy explaining technical concepts, mentoring, and finding simple ways to make programming easier to understand.
-
-### My philosophy
-
-> **Technology should not only be powerful. It should be useful, understandable and human.**
+📖 **Diplomado en Competencias Digitales Docentes**
+UDLA - Universidad Anáhuac
+*Actualmente en curso*
 
 ---
 
-## 💡 Things I care about
+# 👩‍🏫 Tecnología + Educación
 
-* 🧠 Clean and maintainable code
-* 🏗️ Good architecture
-* 👩‍💻 Continuous learning
-* 🎨 Good user experience
+Una de mis metas es combinar mis dos grandes intereses:
+
+**💻 Software + 📚 Educación**
+
+Me gusta investigar, aprender y después **convertir lo aprendido en conocimiento que pueda ser entendido y compartido por otras personas**.
+
+Creo que enseñar programación no consiste solamente en explicar sintaxis o tecnologías.
+
+También consiste en enseñar a:
+
+* 🧠 Pensar
+* 🔎 Investigar
+* 🧩 Resolver problemas
+* 🏗️ Diseñar soluciones
+* ✨ Escribir código comprensible
+* 🚀 Aprender de manera autónoma
+
+### Mi filosofía
+
+> **Programar para resolver, aprender para crecer y enseñar para compartir. 💜**
+
+---
+
+# 💡 Lo que más me importa al desarrollar software
+
+```text
+Código limpio
+     +
+Pensamiento crítico
+     +
+Investigación
+     +
+Arquitectura
+     +
+Experiencia de usuario
+     +
+Aprendizaje continuo
+     =
+Software que realmente sirve
+```
+
+Para mí, desarrollar software no es solamente hacer que algo funcione.
+
+Es intentar que sea **comprensible, mantenible, útil y capaz de evolucionar**.
+
+---
+
+# 🐶 Proyectos con propósito
+
+## 🐾 Tino — Proyecto solidario
+
+Uno de mis proyectos personales nació de una necesidad muy diferente a las habituales en el desarrollo de software: **ayudar a financiar la atención médica de Tino**, mi perrito querido, al que amo con todo mi ❤️.
+
+Este proyecto me recuerda algo que considero importante:
+
+> **La tecnología también puede utilizarse para ayudar. ❤️**
+
+---
+
+# 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabbydeveloper&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbydeveloper&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+# ☕ Un poco más sobre mí
+
+Cuando no estoy programando, probablemente estoy:
+
+☕ Tomando café
+🐕 Con mis perros
+💃 Bailando
+🏋️ Haciendo ejercicio
+📚 Aprendiendo algo nuevo
+🔎 Investigando algún tema que despertó mi curiosidad
+👩‍🏫 Pensando en cómo explicar algo de una manera más sencilla
+
+---
+
+# 🌱 Actualmente
+
+```text
+💻 Desarrollo de software
+🏗️ Reingeniería de GECO
+🧾 Desarrollo contable para ATSys
+🎓 Máster en Ingeniería de Software
+📚 Competencias Digitales Docentes
+🧠 Investigación y aprendizaje continuo
+👩‍🏫 Preparándome para enseñar
+```
+
+---
+
+# 📫 Conectemos
+
+Si te interesa conversar sobre **desarrollo de software, arquitectura, Angular, Java, Spring Boot, sistemas ERP, modernización de sistemas legacy, educación o tecnología**, será un gusto conectar.
+
+<p align="left">
+  <a href="https://github.com/gabbydeveloper">
+    <img src="https://img.shields.io/badge/GitHub-gabbydeveloper-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### 💜 Gracias por visitar mi perfil
+
+**Programar. Aprender. Investigar. Enseñar.**
+
+</p>
